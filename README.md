@@ -15,11 +15,12 @@ SQL (Basics)
 Git & GitHub
 
 📂 Projects
+
 🔹 Student Management System
 
 Console-based Java application
 
-Implemented OOP, Collections, and Exception Handling
+Implemented OOP and Exception Handling
 
 🔹 Phishing Detector
 
