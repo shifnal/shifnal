@@ -23,5 +23,5 @@
 - HackerRank: (add later)
 
 ## 📫 Contact
-- Email: yourmail@gmail.com
+- Email: shifnalshyju@gmail.com
 - LinkedIn: your-link
