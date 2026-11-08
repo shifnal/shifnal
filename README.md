@@ -1,47 +1,62 @@
 # 👋 Hi, I'm Shifnal
 
-🎓 Final Year B.Tech Student | Aspiring Java Software Developer
+🎓 B.Tech Computer Science & Engineering Graduate | Aspiring Software Developer
 
-🔧 Skills
+💻 Interested in **Python Development, Software Engineering, and Cloud Computing**
 
-Core Java, Python, C
+## 🔧 Skills
 
-Object-Oriented Programming (OOP)
+- **Programming:** Python, Java, C
+- **Core Concepts:** OOP, Data Structures & Algorithms
+- **Database:** SQL
+- **Cloud:** AWS
+- **Tools:** Git & GitHub
 
-Data Structures & Algorithms
+## 📜 Certifications
 
-SQL (Basics)
+- ☁️ **AWS Certified Cloud Practitioner – CLF-C02**
+- **AWS Academy Graduate – Cloud Foundations**
+- **Wipro TalentNext – Java Full Stack Development**
+- **IBM SkillsBuild – Prompt Engineering**
 
-Git & GitHub
+## 📂 Projects
 
-📂 Projects
+### 🔹 PhishDetect – Hybrid Phishing Detection Framework
 
-🔹 Student Management System
+A Python-based phishing detection system that analyzes URLs and web pages using multiple detection techniques.
 
-Console-based Java application
+- Developed a **GRU-based URL detection model**
+- Implemented **DOM-based analysis** using Puppeteer
+- Added **visual similarity analysis** using OpenCV and scikit-image
+- Combined URL, DOM, and visual analysis using a **fusion approach**
+- Integrated **Explainable AI (XAI)** to provide insights into predictions
+- Built a web-based dashboard for phishing analysis
 
-Implemented OOP and Exception Handling
+**Technologies:** Python, FastAPI, GRU, React, Next.js, Node.js, Puppeteer, OpenCV, scikit-learn, NumPy
 
-🔹 Phishing Detector
+### 🔹 E-Commerce Web Application
 
-Developed a Python-based application to detect phishing URLs
+A full-stack e-commerce web application with frontend, backend, database, and authentication components.
 
-Used libraries like Scikit-learn, Pandas, and NumPy for data processing and classification
+**Technologies:** React, Node.js, Express.js, Supabase, MySQL
 
-🔹 Plant Disease Detection
+### 🔹 Student Management System
 
-Built a CNN-based model for classifying plant diseases from images
+A console-based application developed using Java.
 
-Implemented using TensorFlow, Keras, and NumPy
+- Implemented **Object-Oriented Programming**
+- Used **Exception Handling**
+- Applied core Java concepts for application development
 
-Deployed a simple web interface for users to upload images and get predictions
-
-
+**Technologies:** Java
 
 ## 🧠 Coding Practice
+
 - LeetCode
 - HackerRank
 
-## 📫 Contact
-- Email: shifnalshyju@gmail.com
 
+
+---
+
+⭐ Thanks for visiting my profile!
